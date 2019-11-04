@@ -10,3 +10,6 @@ with AWS
 
 -Select Ubuntu
 ![Annotation 2019-11-04 023158](https://user-images.githubusercontent.com/22506281/68114608-4ca11a80-feab-11e9-8842-c58774b447f8.png)
+
+-Start
+![Annotation 2019-11-04 023550](https://user-images.githubusercontent.com/22506281/68114843-de108c80-feab-11e9-9bf2-ac118da98850.png)
