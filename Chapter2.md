@@ -22,5 +22,5 @@
 ![Annotation 2019-11-04 030800](https://user-images.githubusercontent.com/22506281/68116696-52e5c580-feb0-11e9-8e46-66c8fb95d4ad.png)
 19.Go to EC2 Dashboard and click Running instance and find IPv4 Public IP
 20.Type that IP and add :8888
- 
+21.You may need sudo pip install --upgrade notebook...
 
