@@ -13,3 +13,10 @@ with AWS
 
 -Start
 ![Annotation 2019-11-04 023550](https://user-images.githubusercontent.com/22506281/68114843-de108c80-feab-11e9-9bf2-ac118da98850.png)
+
+-Create a key pair and download it to start it
+
+-Go to property of the key, security
+-Advanced -> Click "Disable Inheritance"
+-Remove everything except "Administrators" and "System"
+
